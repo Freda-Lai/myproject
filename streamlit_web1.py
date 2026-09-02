@@ -18,7 +18,7 @@ with c1:
 
 st.divider()
 st.header("PowerBI研究畫面")
-st.image("./images/lung.jpg", caption="肺癌臨床治療存活率比較圖")
+st.image("./images/Lung.jpg", caption="肺癌臨床治療存活率比較圖")
 st.image("images/combined.jpg", caption="肺癌臨床治療存活率比較圖")
 
 
